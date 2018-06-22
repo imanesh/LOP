@@ -5,9 +5,9 @@ LIBFORMAT  = static_pic
 # please copy this makefile and set CPLEXDIR and CONCERTDIR to
 # the directories where CPLEX and CONCERT are installed.
 #------------------------------------------------------------
-CPLEXDIR      = /Users/Ehsan/Applications/IBM/ILOG/CPLEX_Studio1261/cplex
-CONCERTDIR    = /Users/Ehsan/Applications/IBM/ILOG/CPLEX_Studio1261/concert
-CURRENTDIR    = /Users/Ehsan/Documents/workspace_c++/Kemeny_Heuristic
+CPLEXDIR      = 
+CONCERTDIR    = 
+CURRENTDIR    = 
 INCLUDEDIR    = $(CURRENTDIR)/include
 SRCDIR        = $(CURRENTDIR)/src
 OBJDIR        = $(CURRENTDIR)/obj
